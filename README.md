@@ -1,4 +1,4 @@
-Uploading Digiy Recognition.ipynb - Colaboratory - Google Chrome 2024-02-02 20-17-57.mp4…
+
 
 ## Digit Recognition
 Overview:
