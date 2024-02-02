@@ -3,6 +3,7 @@ https://github.com/Chiranjeevi-kumar205/Digit_Recognition/assets/113673104/3477c
 ## Digit Recognition
 
 Overview:
+
 The Digit Recognition project involves training a deep learning model to accurately identify handwritten digits. Recognizing digits from images is a fundamental task in computer vision and serves as a foundation for various applications, including optical character recognition (OCR) systems. This project employs convolutional neural networks (CNNs) to achieve high accuracy in classifying digits ranging from 0 to 9.
 
 Objectives:
@@ -41,7 +42,9 @@ Install the required dependencies using pip install -r requirements.txt.
 Follow the instructions in the provided notebooks (or scripts) to preprocess data, train the model, and evaluate its performance.
 
 Contributors:
+
 Chiranjeevi Kumar Battula
+
 https://www.linkedin.com/in/chiranjeevikumar/
 
 Acknowledgments:
